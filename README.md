@@ -16,3 +16,10 @@ Move the extracted file to commands in your path. In example:
 ```bash
 mv pioctl /usr/local/bin
 ```
+
+## Install with homebrew
+
+```bash
+brew tap pilvio-com/homebrew-tap
+brew install pioctl
+```
